@@ -4019,7 +4019,8 @@ public class MainWindow extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void usersButtonMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_usersButtonMouseClicked
-blad2Text.setVisible(false);
+   
+        blad2Text.setVisible(false);
         bladText.setVisible(false);
         usersWindow.setVisible(true);
         refresh();
